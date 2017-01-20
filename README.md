@@ -27,7 +27,7 @@ Source: <http://git.io/xlsx>
 With [npm](https://www.npmjs.org/package/xlsx):
 
 ```bash
-$ npm install xlsx
+$ npm install xlsx-org
 ```
 
 In the browser:
