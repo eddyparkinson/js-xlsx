@@ -1,7 +1,7 @@
 {
-	"name": "xlsx",
-	"version": "0.8.1",
-	"author": "sheetjs",
+	"name": "xlsx-org",
+	"version": "0.8.3",
+	"author": "sheetjs,quilt-js",
 	"description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer",
 	"keywords": [ "excel", "xls", "xlsx", "xlsb", "xlsm", "ods", "office", "spreadsheet" ],
 	"bin": {
@@ -23,7 +23,7 @@
 		"xlsjs":"",
 		"uglify-js":""
 	},
-	"repository": { "type":"git", "url":"git://github.com/SheetJS/js-xlsx.git" },
+	"repository": { "type":"git", "url":"git://github.com/quilt-js/js-xlsx.git" },
 	"scripts": {
 		"pretest": "git submodule init && git submodule update",
 		"test": "make test"
